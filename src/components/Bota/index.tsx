@@ -4,7 +4,7 @@ class Bota extends React.Component {
   render() {
     return (
       <button>
-        steste
+        Enviar
       </button>
     )
   }

@@ -6,7 +6,7 @@ class Formulario extends React.Component {
       <form>
         <div>
           <label htmlFor="tarefa">
-            Adicione um novo estudo
+            Nome
           </label>
           <input
             type="text"

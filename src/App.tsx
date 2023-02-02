@@ -1,13 +1,14 @@
-import React from 'react';
-import Formulario from './components/Formulario';
+import './App.css'
+import Formulario from './components/Formulario'
+import Bota from './components/Bota';
 
 function App() {
   return (
-    <div className="App">
+    <main>
       <Formulario />
-    </div>
-
-  );
+      <Bota/>
+    </main>
+  )
 }
 
 export default App;

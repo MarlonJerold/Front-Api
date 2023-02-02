@@ -1,6 +1,6 @@
 import React from "react";
 
-class Bota extends React.Component {
+class SendButton extends React.Component {
   render() {
     return (
       <button>
@@ -10,4 +10,4 @@ class Bota extends React.Component {
   }
 }
 
-export default Bota;
+export default SendButton;
